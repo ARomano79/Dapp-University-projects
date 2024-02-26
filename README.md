@@ -12,4 +12,6 @@ Lesson #4 - MyContract-mappings.sol - learned mappings, another type of data str
 <br />
 Lesson #5 - MyContract-cond-loops.sol - learned about conditional statements (if/else), adding loops, and checking loop data against conditional statement.
 <br />
-Lesson #6 - 
+Lesson #6 - HotelRoom.sol - Created guided contract for a hotel room to accept bookings and payments in crypto.
+<br />
+<br />
